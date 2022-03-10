@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T22:02:50.652Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="sNpHrlnkb3uq1t_MpHxv" version="17.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T22:03:54.006Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="VjNiEATxIFqzoFg_a-j9" version="17.1.0" type="github">
   <diagram id="XbYHDId6QQW5LhkTKkXW" name="Page-1">
     <mxGraphModel dx="1248" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -312,6 +312,9 @@
             <mxPoint x="592.17" y="119.99" as="sourcePoint" />
             <mxPoint x="692.17" y="119.99" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="KeWiGIRZNDUcGX5Lr0Es-199" value="Cliente (id, nombre, fecha_Nac, Telefono, dirección) Candidate key id&#xa;Pelicula(id_pelicula, nombre, fecha_sal) Candidate key id_pelicula&#xa;Director(director_id) key director_id&#xa;Actor(actor_id) key actor_id&#xa;Persona(Nombre_artistico, nombre, fech_nacimiento, edad, actor_id, director_id) &#xa;Pais(nacionalidad, num_pais, Ciudad, id_pais) Candidate key id_pais&#xa;Renta(fecha_pres, formato) Candidate key fecha_pres&#xa;Copia(nombre, id_copia, fecha_salida, id_pelicula) Candidate key id_copia&#xa;Dirige(director_id, id_pelicula)&#xa;Actuan(actor_id, id_pelicula)&#xa;Es(Actor_id, director_id, nombre)&#xa;Liga(id_pais,Nombre artistico, Nombre)" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="49.95" y="630" width="460" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
