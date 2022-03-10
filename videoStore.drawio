@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T00:45:49.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.30" etag="edEV0JEKJv2yWvhALXHj" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T00:51:04.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.30" etag="Pu7BlvGbkj07ubQdkoiE" version="16.6.4" type="github">
   <diagram id="XbYHDId6QQW5LhkTKkXW" name="Page-1">
     <mxGraphModel dx="1151" dy="1527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e1TEVOApzdRCWQLMog-f-150" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="e1TEVOApzdRCWQLMog-f-33" target="e1TEVOApzdRCWQLMog-f-148">
+        <mxCell id="e1TEVOApzdRCWQLMog-f-150" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e1TEVOApzdRCWQLMog-f-33" target="e1TEVOApzdRCWQLMog-f-148">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e1TEVOApzdRCWQLMog-f-33" value="Actores" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -104,7 +104,7 @@
         <mxCell id="e1TEVOApzdRCWQLMog-f-43" value="Dirige" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="4.3799999999999955" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="e1TEVOApzdRCWQLMog-f-152" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classicThin;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="e1TEVOApzdRCWQLMog-f-45" target="e1TEVOApzdRCWQLMog-f-148">
+        <mxCell id="e1TEVOApzdRCWQLMog-f-152" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="e1TEVOApzdRCWQLMog-f-45" target="e1TEVOApzdRCWQLMog-f-148">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1150" y="230" as="targetPoint" />
             <Array as="points">
