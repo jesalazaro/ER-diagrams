@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-11T23:26:04.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="hjBrfQtzY3cM8n_ef3LE" version="17.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-11T23:26:52.484Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36 Edg/99.0.1150.36" etag="o0eMTLbT8GMNpLkryF7l" version="17.1.1" type="github">
   <diagram id="XbYHDId6QQW5LhkTKkXW" name="Page-1">
     <mxGraphModel dx="1248" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -231,8 +231,8 @@
         <mxCell id="KeWiGIRZNDUcGX5Lr0Es-76" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" parent="1" source="YXDesHnkqgXv9jODjz7c-3" target="YXDesHnkqgXv9jODjz7c-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KeWiGIRZNDUcGX5Lr0Es-199" value="Cliente (id, nombre, fecha_Nac, Telefono, dirección) Candidate key id&#xa;Pelicula(id_pelicula, nombre, fecha_sal) Candidate key id_pelicula&#xa;Director(director_id) key director_id&#xa;Actor(actor_id) key actor_id&#xa;Persona(Nombre_artistico, nombre, fech_nacimiento, edad, actor_id, director_id) &#xa;Pais(nacionalidad, num_pais, Ciudad, id_pais) Candidate key id_pais&#xa;Renta(fecha_pres, formato) Candidate key fecha_pres&#xa;Copia(nombre, id_copia, fecha_salida, id_pelicula) Candidate key id_copia&#xa;Dirige(director_id, id_pelicula)&#xa;Actuan(actor_id, id_pelicula)&#xa;Es(Actor_id, director_id, nombre)&#xa;Liga(id_pais,Nombre artistico, Nombre)" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="49.95" y="630" width="460" height="180" as="geometry" />
+        <mxCell id="KeWiGIRZNDUcGX5Lr0Es-199" value="Cliente (id, nombre, fecha_Nac, Telefono, dirección) Candidate key id&lt;br&gt;PeliculaComprada(id_pelicula, nombre, fecha_sal) Candidate key id_pelicula&lt;br&gt;Director(director_id) key director_id&lt;br&gt;Actor(actor_id) key actor_id&lt;br&gt;Persona(Nombre_artistico, nombre, fech_nacimiento, edad, actor_id, director_id)&amp;nbsp;&lt;br&gt;Pais(nacionalidad, num_pais, Ciudad, id_pais) Candidate key id_pais&lt;br&gt;Renta(fecha_pres, formato) Candidate key fecha_pres&lt;br&gt;Pelicula renta(nombre, id_copia, fecha_salida, id_pelicula) Candidate key id_copia&lt;br&gt;Dirige(director_id, id_pelicula)&lt;br&gt;Actuan(actor_id, id_pelicula)&lt;br&gt;Es(Actor_id, director_id, nombre)&lt;br&gt;Liga(id_pais,Nombre artistico, Nombre)" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="151.25" y="490" width="460" height="180" as="geometry" />
         </mxCell>
         <mxCell id="avucB0VCaXHulsLbvV53-10" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="avucB0VCaXHulsLbvV53-5" edge="1">
           <mxGeometry relative="1" as="geometry">
