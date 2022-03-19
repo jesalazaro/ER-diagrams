@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-19T15:43:07.048Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="jdPIm7oi8xta9zqdDsDc" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-19T15:44:06.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="s5EUwaAWnrfjmSHLl59w" version="17.1.3" type="github">
   <diagram id="Toqo3YY0TOeya2npDGFU" name="Page-1">
     <mxGraphModel dx="2272" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -112,7 +112,7 @@
           <mxGeometry x="425" y="-50" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mAzP9v9GBO7A0TUDE0WZ-25" value="&lt;p class=&quot;Normal&quot;&gt;&lt;span class=&quot;tm5&quot;&gt;Estudiante = (&lt;/span&gt;&lt;strong&gt;&lt;u&gt;&lt;span class=&quot;tm6&quot;&gt;Id_estudiante)&lt;/span&gt;&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p class=&quot;Normal&quot;&gt;&lt;span class=&quot;tm5&quot;&gt;Cursa = (&lt;/span&gt;&lt;strong&gt;&lt;u&gt;&lt;span class=&quot;tm6&quot;&gt;Id_Estudiante, Id_asignatura)&lt;/span&gt;&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p class=&quot;Normal&quot;&gt;&lt;span class=&quot;tm5&quot;&gt;Asignatura = (&lt;/span&gt;&lt;strong&gt;&lt;u&gt;&lt;span class=&quot;tm6&quot;&gt;Id_asignatura)&lt;/span&gt;&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p class=&quot;Normal&quot;&gt;&lt;span class=&quot;tm5&quot;&gt;Examen = (&lt;/span&gt;&lt;strong&gt;&lt;u&gt;&lt;span class=&quot;tm6&quot;&gt;Fecha_presentación, &lt;/span&gt;&lt;/u&gt;&lt;/strong&gt;&lt;span class=&quot;tm5&quot;&gt;id_asignatura, id_pregunta Respuesta_est)&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;Normal&quot;&gt;&lt;span class=&quot;tm5&quot;&gt;Pregunta = (&lt;/span&gt;&lt;strong&gt;&lt;u&gt;&lt;span class=&quot;tm6&quot;&gt;Id_pregunta, &lt;/span&gt;&lt;/u&gt;&lt;/strong&gt;&lt;span class=&quot;tm5&quot;&gt;Tipo)&lt;/span&gt;&lt;/p&gt;&lt;span class=&quot;tm5&quot;&gt;Tiene = (&lt;/span&gt;&lt;strong&gt;&lt;u&gt;&lt;span class=&quot;tm6&quot;&gt;Id_pregunta, Id_respuesta)&lt;/span&gt;&lt;/u&gt;&lt;/strong&gt;&lt;br&gt;&lt;p class=&quot;Normal&quot;&gt;&lt;span class=&quot;tm5&quot;&gt;Respuesta = (&lt;/span&gt;&lt;strong&gt;&lt;span class=&quot;tm6&quot;&gt;Id_respuesta&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry y="410" width="440" height="200" as="geometry" />
+          <mxGeometry x="-15" y="380" width="440" height="200" as="geometry" />
         </mxCell>
         <mxCell id="y3OrkEI1wCn-L8iphECJ-14" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="y3OrkEI1wCn-L8iphECJ-4" target="CcFSkTyzFHJaOgrXIXWp-8">
           <mxGeometry relative="1" as="geometry" />
@@ -137,6 +137,9 @@
             <mxPoint x="450" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="y3OrkEI1wCn-L8iphECJ-37" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="y3OrkEI1wCn-L8iphECJ-24" target="y3OrkEI1wCn-L8iphECJ-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="y3OrkEI1wCn-L8iphECJ-24" value="Presenta" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="290.95" width="80" height="80" as="geometry" />
         </mxCell>
@@ -150,7 +153,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y3OrkEI1wCn-L8iphECJ-33" value="Selecciona" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;rounded=0;shadow=0;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="455" y="420" width="80" height="80" as="geometry" />
+          <mxGeometry x="452.66" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y3OrkEI1wCn-L8iphECJ-36" value="Nota" style="ellipse;whiteSpace=wrap;html=1;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="305" y="316.42" width="70" height="29.05" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
