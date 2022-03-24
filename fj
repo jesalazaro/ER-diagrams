@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T18:29:31.125Z" agent="5.0 (X11)" etag="-ibQdro0HjMKfFaXlD02" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-24T18:31:20.356Z" agent="5.0 (X11)" etag="YS_Y3N8CtLHBrtn-r-GF" version="17.2.1" type="github">
   <diagram id="gGqamEQBxuCNSK_4YfJo" name="Page-1">
     <mxGraphModel dx="1646" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -17,13 +17,13 @@
           <mxGeometry x="480" y="395" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nM9U5-OLNW5vxh_9stfU-5" value="Hotel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="780" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nM9U5-OLNW5vxh_9stfU-6" value="Pasabordo?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nM9U5-OLNW5vxh_9stfU-7" value="Ticket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nM9U5-OLNW5vxh_9stfU-10" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nM9U5-OLNW5vxh_9stfU-8" target="nM9U5-OLNW5vxh_9stfU-3">
           <mxGeometry relative="1" as="geometry" />
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="nM9U5-OLNW5vxh_9stfU-8" value="Tiene" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nM9U5-OLNW5vxh_9stfU-12" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="240" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
