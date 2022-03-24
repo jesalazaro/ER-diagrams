@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T18:57:10.992Z" agent="5.0 (X11)" etag="KZKGNGN-W-fp9OzE-TjT" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-24T18:58:33.767Z" agent="5.0 (X11)" etag="S_kk0nV9OLaJpKk_gX1_" version="17.2.1" type="github">
   <diagram id="gGqamEQBxuCNSK_4YfJo" name="Page-1">
     <mxGraphModel dx="2746" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -53,13 +53,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nM9U5-OLNW5vxh_9stfU-16" value="Registra" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="110" width="80" height="80" as="geometry" />
+          <mxGeometry x="390" y="110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nM9U5-OLNW5vxh_9stfU-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nM9U5-OLNW5vxh_9stfU-3" target="nM9U5-OLNW5vxh_9stfU-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nM9U5-OLNW5vxh_9stfU-20" value="id_carné" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontStyle=5" vertex="1" parent="1">
-          <mxGeometry x="370" y="70" width="70" height="30" as="geometry" />
+          <mxGeometry x="390" y="70" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nM9U5-OLNW5vxh_9stfU-23" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nM9U5-OLNW5vxh_9stfU-22" target="nM9U5-OLNW5vxh_9stfU-4">
           <mxGeometry relative="1" as="geometry" />
