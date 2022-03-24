@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T18:44:06.458Z" agent="5.0 (X11)" etag="KW8zsGLFOTWVW7LTPFpj" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-24T18:44:58.263Z" agent="5.0 (X11)" etag="CW8NnS6kRB81zttvWWo0" version="17.2.1" type="github">
   <diagram id="gGqamEQBxuCNSK_4YfJo" name="Page-1">
     <mxGraphModel dx="1646" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="540" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nM9U5-OLNW5vxh_9stfU-5" value="Hotel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="880" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nM9U5-OLNW5vxh_9stfU-35" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nM9U5-OLNW5vxh_9stfU-7" target="nM9U5-OLNW5vxh_9stfU-34">
           <mxGeometry relative="1" as="geometry" />
