@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T18:32:10.102Z" agent="5.0 (X11)" etag="44Zr45MzwnagMIFHQwbs" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-24T18:37:51.376Z" agent="5.0 (X11)" etag="yaVl2nMSqAzL4I2it8rr" version="17.2.1" type="github">
   <diagram id="gGqamEQBxuCNSK_4YfJo" name="Page-1">
     <mxGraphModel dx="1646" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -7,23 +7,29 @@
         <mxCell id="nM9U5-OLNW5vxh_9stfU-9" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nM9U5-OLNW5vxh_9stfU-2" target="nM9U5-OLNW5vxh_9stfU-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nM9U5-OLNW5vxh_9stfU-17" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nM9U5-OLNW5vxh_9stfU-2" target="nM9U5-OLNW5vxh_9stfU-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nM9U5-OLNW5vxh_9stfU-2" value="Aerolinea" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nM9U5-OLNW5vxh_9stfU-3" value="Aeronave" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="150" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nM9U5-OLNW5vxh_9stfU-18" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nM9U5-OLNW5vxh_9stfU-4" target="nM9U5-OLNW5vxh_9stfU-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nM9U5-OLNW5vxh_9stfU-4" value="Pasajero" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="395" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nM9U5-OLNW5vxh_9stfU-5" value="Hotel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nM9U5-OLNW5vxh_9stfU-6" value="Pasabordo?" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="750" y="190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nM9U5-OLNW5vxh_9stfU-7" value="Ticket" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="120" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nM9U5-OLNW5vxh_9stfU-10" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nM9U5-OLNW5vxh_9stfU-8" target="nM9U5-OLNW5vxh_9stfU-3">
           <mxGeometry relative="1" as="geometry" />
@@ -33,6 +39,24 @@
         </mxCell>
         <mxCell id="nM9U5-OLNW5vxh_9stfU-8" value="Tiene" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nM9U5-OLNW5vxh_9stfU-21" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nM9U5-OLNW5vxh_9stfU-16" target="nM9U5-OLNW5vxh_9stfU-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nM9U5-OLNW5vxh_9stfU-16" value="Registra" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nM9U5-OLNW5vxh_9stfU-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="nM9U5-OLNW5vxh_9stfU-3" target="nM9U5-OLNW5vxh_9stfU-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nM9U5-OLNW5vxh_9stfU-20" value="id_carné" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nM9U5-OLNW5vxh_9stfU-23" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="nM9U5-OLNW5vxh_9stfU-22" target="nM9U5-OLNW5vxh_9stfU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nM9U5-OLNW5vxh_9stfU-22" value="Id_pasajero" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="530" y="50" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
