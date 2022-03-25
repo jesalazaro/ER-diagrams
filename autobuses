@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T18:30:42.677Z" agent="5.0 (X11)" etag="1pmKdLktRv_VN820nn2h" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T18:31:41.039Z" agent="5.0 (X11)" etag="csxvwtnfad1dRGcA8WwF" version="17.2.1" type="github">
   <diagram id="PPuNwmkfNdZD7Oi11L6-" name="Page-1">
     <mxGraphModel dx="1646" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -71,6 +71,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oihocZssW5pZV-DbpKp1-50" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="oihocZssW5pZV-DbpKp1-28" target="oihocZssW5pZV-DbpKp1-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oihocZssW5pZV-DbpKp1-65" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="oihocZssW5pZV-DbpKp1-28" target="oihocZssW5pZV-DbpKp1-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oihocZssW5pZV-DbpKp1-28" value="Reparacione" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -149,7 +152,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oihocZssW5pZV-DbpKp1-62" value="NombreLinea" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="405" width="100" height="40" as="geometry" />
+          <mxGeometry x="490" y="370" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oihocZssW5pZV-DbpKp1-64" value="CosteReparacion" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="810" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oihocZssW5pZV-DbpKp1-67" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="oihocZssW5pZV-DbpKp1-66" target="oihocZssW5pZV-DbpKp1-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oihocZssW5pZV-DbpKp1-66" value="CosteRevision" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="820" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
