@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T15:29:28.284Z" agent="5.0 (X11)" etag="qfm8E-ZQxczUmAfbitR8" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T15:31:07.701Z" agent="5.0 (X11)" etag="UY2aGHDeLaDj_DrNSPkW" version="17.2.1" type="github">
   <diagram id="EcuCaFGCWfkYa3ZBihS5" name="Page-1">
     <mxGraphModel dx="1646" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZzU0FYQ_HScjGLeMNXmk-22" value="IdObra" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontStyle=5" vertex="1" parent="1">
-          <mxGeometry x="360" y="70" width="100" height="40" as="geometry" />
+          <mxGeometry x="390" y="50" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZzU0FYQ_HScjGLeMNXmk-25" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ZzU0FYQ_HScjGLeMNXmk-24" target="ZzU0FYQ_HScjGLeMNXmk-2">
           <mxGeometry relative="1" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZzU0FYQ_HScjGLeMNXmk-26" value="Estilo" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="60" width="100" height="40" as="geometry" />
+          <mxGeometry x="500" y="40" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ZzU0FYQ_HScjGLeMNXmk-29" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="ZzU0FYQ_HScjGLeMNXmk-28" target="ZzU0FYQ_HScjGLeMNXmk-2">
           <mxGeometry relative="1" as="geometry" />
