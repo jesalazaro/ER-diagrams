@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T15:44:23.504Z" agent="5.0 (X11)" etag="rQMjga8homcH5xoc_fnl" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T15:46:13.961Z" agent="5.0 (X11)" etag="YZ9lNs2fJT2i6lyrkNSe" version="17.2.1" type="github">
   <diagram id="aT8taaVwc0aUji_gwdS4" name="Page-1">
     <mxGraphModel dx="1646" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -62,7 +62,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WpChoGcfkVHCRS5rvqth-20" value="Genera" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="240" width="80" height="80" as="geometry" />
+          <mxGeometry x="510" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WpChoGcfkVHCRS5rvqth-25" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="WpChoGcfkVHCRS5rvqth-23" target="WpChoGcfkVHCRS5rvqth-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WpChoGcfkVHCRS5rvqth-23" value="idProducto" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="670" y="170" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WpChoGcfkVHCRS5rvqth-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="WpChoGcfkVHCRS5rvqth-23" target="WpChoGcfkVHCRS5rvqth-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
