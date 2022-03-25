@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T18:28:20.728Z" agent="5.0 (X11)" etag="OkyoxyyqZo4lKP_vWY5M" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T18:30:42.677Z" agent="5.0 (X11)" etag="1pmKdLktRv_VN820nn2h" version="17.2.1" type="github">
   <diagram id="PPuNwmkfNdZD7Oi11L6-" name="Page-1">
     <mxGraphModel dx="1646" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -125,13 +125,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oihocZssW5pZV-DbpKp1-53" value="&lt;b&gt;&lt;u&gt;id_lineas&lt;/u&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="170" width="90" height="40" as="geometry" />
+          <mxGeometry x="430" y="180" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oihocZssW5pZV-DbpKp1-57" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="oihocZssW5pZV-DbpKp1-56" target="oihocZssW5pZV-DbpKp1-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oihocZssW5pZV-DbpKp1-56" value="&lt;u&gt;&lt;b&gt;IdParadas&lt;/b&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="860" y="380" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oihocZssW5pZV-DbpKp1-59" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="oihocZssW5pZV-DbpKp1-58" target="oihocZssW5pZV-DbpKp1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oihocZssW5pZV-DbpKp1-58" value="Horario" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oihocZssW5pZV-DbpKp1-61" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="oihocZssW5pZV-DbpKp1-60" target="oihocZssW5pZV-DbpKp1-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oihocZssW5pZV-DbpKp1-60" value="Nombre parada" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="830" y="150" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="oihocZssW5pZV-DbpKp1-63" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="oihocZssW5pZV-DbpKp1-62" target="oihocZssW5pZV-DbpKp1-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oihocZssW5pZV-DbpKp1-62" value="NombreLinea" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="405" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
