@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-25T15:48:28.903Z" agent="5.0 (X11)" etag="8DNOEUmz5UHUpoUpBHV6" version="17.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-25T17:50:49.840Z" agent="5.0 (X11)" etag="MXU3wb3SAz0s1IOTY9xq" version="17.2.1" type="github">
   <diagram id="aT8taaVwc0aUji_gwdS4" name="Page-1">
     <mxGraphModel dx="1646" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -55,10 +55,16 @@
         <mxCell id="WpChoGcfkVHCRS5rvqth-16" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="WpChoGcfkVHCRS5rvqth-14" target="WpChoGcfkVHCRS5rvqth-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="WpChoGcfkVHCRS5rvqth-45" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="WpChoGcfkVHCRS5rvqth-14" target="WpChoGcfkVHCRS5rvqth-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WpChoGcfkVHCRS5rvqth-14" value="Emite" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="540" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WpChoGcfkVHCRS5rvqth-19" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="WpChoGcfkVHCRS5rvqth-17" target="WpChoGcfkVHCRS5rvqth-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WpChoGcfkVHCRS5rvqth-43" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="WpChoGcfkVHCRS5rvqth-17" target="WpChoGcfkVHCRS5rvqth-42">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WpChoGcfkVHCRS5rvqth-17" value="Firma" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -110,16 +116,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WpChoGcfkVHCRS5rvqth-36" value="IdDirector" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontStyle=5" vertex="1" parent="1">
-          <mxGeometry x="715" y="670" width="70" height="40" as="geometry" />
+          <mxGeometry x="715" y="490" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WpChoGcfkVHCRS5rvqth-39" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="WpChoGcfkVHCRS5rvqth-38" target="WpChoGcfkVHCRS5rvqth-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WpChoGcfkVHCRS5rvqth-38" value="NombreDirector" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="890" y="570" width="110" height="40" as="geometry" />
+          <mxGeometry x="830" y="500" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WpChoGcfkVHCRS5rvqth-40" value="IdCertificado" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontStyle=5" vertex="1" parent="1">
           <mxGeometry x="345" y="670" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WpChoGcfkVHCRS5rvqth-42" value="FechaFirma" style="ellipse;whiteSpace=wrap;html=1;rounded=0;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="505" y="655" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="WpChoGcfkVHCRS5rvqth-44" value="&lt;u&gt;&lt;b&gt;FechaEmision&lt;/b&gt;&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="655" width="90" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
