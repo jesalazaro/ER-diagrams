@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T16:52:03.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.52" etag="dgmkPMAA-oLAUhLGdQ6O" version="17.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T16:55:18.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36 Edg/99.0.1150.52" etag="k8GPZV4g76s4Jk5640A_" version="17.2.4" type="github">
   <diagram id="NR_hStDtL8hDNZZqwzwI" name="Page-1">
     <mxGraphModel dx="1673" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SJhnstCUDmlnHWMJC5a4-3" value="Tiene" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SJhnstCUDmlnHWMJC5a4-3" value="Cuenta" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="130" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SJhnstCUDmlnHWMJC5a4-9" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="SJhnstCUDmlnHWMJC5a4-8" target="SJhnstCUDmlnHWMJC5a4-2">
