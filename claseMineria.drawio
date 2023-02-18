@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-02-18T11:26:16.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.46" version="20.8.20" etag="RM0nUjYRvAjkdypaDrZ5" type="github"><diagram name="Página-1" id="TSq5aVHbMTyvOQhU0XD-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-18T12:01:07.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.46" etag="4eBmFAy24rvYFEVHvuvj" version="20.8.20" type="github">
+  <diagram name="Página-1" id="TSq5aVHbMTyvOQhU0XD-">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IPiXcc0ootGk9iN5v62f-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Mineria de datos&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="30" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IPiXcc0ootGk9iN5v62f-2" value="&lt;div style=&quot;&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#ff3333&quot;&gt;Es la exploración de forma automática o semiautomática de grandes cantidades de datos para el descubrimiento de reglas y patrones&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Es la búsqueda para nueva y valiosa información no trivial en grandes volúmenes de datos&lt;/li&gt;&lt;li&gt;un proceso iterativo de detección y extracción de patrones a partir de grandes bases de datos: esto es modelo-reconocimiento&amp;nbsp;&lt;/li&gt;&lt;li&gt;Es el análisis de un conjunto de datos para encontrar relaciones desconocidas y resumir los datos de nuevas formas entendibles para el minero&amp;nbsp;&lt;/li&gt;&lt;li&gt;La minería de datos se trata del proceso analítico, por medio del cual se extrae información oculta de grandes cantidades de datos siendo muy útil para predecir futuros comportamiento y tendencias.&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="80" width="545" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IPiXcc0ootGk9iN5v62f-8" value="&lt;h1&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Esclarecimiento de identidad&amp;nbsp;&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;.Ejemplo: Código de un estudiantes&lt;/p&gt;&lt;p&gt;202225814-compuesto de año, semestre, código del programa, y consecutivo&lt;/p&gt;&lt;p style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Preparación de datos&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;&quot;&gt;&lt;/p&gt;&lt;ol style=&quot;&quot;&gt;&lt;li style=&quot;font-size: 14px;&quot;&gt;Detección de datos anómalos:&amp;nbsp;&lt;/li&gt;&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;Numéricos&lt;/li&gt;&lt;li&gt;Categóricos&lt;/li&gt;&lt;/ol&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Valores Faltantes&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=12;fontColor=#080202;" vertex="1" parent="1">
+          <mxGeometry x="60" y="300" width="590" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="IPiXcc0ootGk9iN5v62f-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;fontColor=#080202;" vertex="1" parent="1">
+          <mxGeometry x="100" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IPiXcc0ootGk9iN5v62f-10" value="Fuente de de datos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontColor=#080202;" vertex="1" parent="1">
+          <mxGeometry x="230" y="705" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IPiXcc0ootGk9iN5v62f-11" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=12;fontColor=#080202;" vertex="1" parent="1">
+          <mxGeometry x="160" y="795" width="60" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
