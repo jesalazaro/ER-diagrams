@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-18T14:45:09.383Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.46" etag="TuwseYdUZu77-0ClbrQn" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-25T14:59:45.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.50" etag="eV4QHN7b8oO15Qh24g-U" version="20.8.23" type="github">
   <diagram name="Página-1" id="TSq5aVHbMTyvOQhU0XD-">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,14 +64,17 @@
         <mxCell id="IPiXcc0ootGk9iN5v62f-23" value="Recuperación de la información" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FCFCFC;fontSize=14;fontColor=#080202;" parent="1" vertex="1">
           <mxGeometry x="200" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2vV9hl9YwarvWXq7e90B-1" value="Cubo de datos OLAP, MOLAP, HOLAP&lt;br&gt;Rollup, Drilldown, Slice, Dice, Pivot" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="2vV9hl9YwarvWXq7e90B-1" value="Cubo de datos OLAP, MOLAP, HOLAP&lt;br&gt;Rollup, Drilldown, Slice, Dice, Pivot" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="1330" width="380" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="2vV9hl9YwarvWXq7e90B-2" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;gradientColor=none;direction=east;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1530" width="196" height="150" as="geometry" />
+        <mxCell id="2vV9hl9YwarvWXq7e90B-2" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;gradientColor=none;direction=east;flipH=1;" parent="1" vertex="1">
+          <mxGeometry x="170" y="1450" width="196" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="2vV9hl9YwarvWXq7e90B-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.974;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2vV9hl9YwarvWXq7e90B-1" target="2vV9hl9YwarvWXq7e90B-1">
+        <mxCell id="2vV9hl9YwarvWXq7e90B-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.974;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="2vV9hl9YwarvWXq7e90B-1" target="2vV9hl9YwarvWXq7e90B-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uo7tSWMs7gZMykp-oGX3-2" value="&lt;h1&gt;Arboles de decisión&lt;/h1&gt;&lt;p&gt;un clasificador usado en minería de datos para la selección de atrubtos, son los árboles de decisión, un arbol de decisión es: una representación en el que cada conjunsto de posibles conclusiones se establece implicitamente mediante una lista de muestras de clase conocida&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Los arboles de decisión son una forma de representar conocimineot facil y comprensiblemente, se dice que estos son más comprensibles que otras técnicas, por ejemplo, máquinas de vectores de soporte o redes neuranles, debido a que son más ineligibles por representar el conocmiento de fomra simbolica&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1690" width="690" height="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
